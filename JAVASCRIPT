@@ -333,6 +333,24 @@ case "MT12":
   unitValue1 = 90.00;
   break;   
 
+//LAMINATION// 
+
+case "EC01":
+  unitValue1 = 3.00;
+  break;
+case "EC02":
+  unitValue1 = 3.50;
+  break;
+case "EC03":
+  unitValue1 = 5.00;
+  break;
+case "LM01":
+  unitValue1 = 10.00;
+  break;
+case "LM03":
+  unitValue1 = 10.00;
+  break;
+
 
 
     default:
