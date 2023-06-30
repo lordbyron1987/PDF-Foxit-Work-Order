@@ -498,6 +498,54 @@ case "OP3_2500":
   unitValue1 = 4510.00;
   break;
 
+//RACK CARDS//
+
+case "OP3_50":
+  unitValue1 = 60.00;
+  break;
+case "OP3_75":
+  unitValue1 = 85.00;
+  break;
+case "OP3_100":
+  unitValue1 = 90.00;
+  break;
+case "OP3_150":
+  unitValue1 = 125.00;
+  break;
+case "OP3_200":
+  unitValue1 = 135.00;
+  break;
+case "OP3_250":
+  unitValue1 = 190.00;
+  break;
+case "OP3_500":
+  unitValue1 = 330.00;
+  break;
+case "OP3_750":
+  unitValue1 = 480.00;
+  break;
+case "OP3_1000":
+  unitValue1 = 585.00;
+  break;
+case "OP3_1250":
+  unitValue1 = 725.00;
+  break;
+case "OP3_1500":
+  unitValue1 = 880.00;
+  break;
+case "OP3_1750":
+  unitValue1 = 1010.00;
+  break;
+case "OP3_2000":
+  unitValue1 = 1050.00;
+  break;
+case "OP3_2250":
+  unitValue1 = 1175.00;
+  break;
+case "OP3_2500":
+  unitValue1 = 1310.00;
+  break;
+
 
     default:
       unitValue1 = ""; // Clear the unit1 field if code1 is not recognized
