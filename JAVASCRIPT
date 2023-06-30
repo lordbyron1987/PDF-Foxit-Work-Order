@@ -1,0 +1,283 @@
+//AMOUNT FIELD//
+// Get references to the Code1, Unit1, and Size1 form fields
+var codeField1 = getField("Code1");
+var unitField1 = getField("Unit1");
+var sizeField1 = getField("Size1");
+
+// Add a custom calculation script to the Code1 field
+codeField1.setAction("Calculate", "calculateUnit1()");
+
+// Function to calculate the unit1 based on the entered code1 and size1
+function calculateUnit1() {
+  var codeValue1 = codeField1.value;
+  var sizeValue1 = sizeField1.value;
+  var unitValue1;
+
+  // Check the code1 and size1 values and set the corresponding unit1 value
+  switch (codeValue1) {
+
+  // SMALL FORMAT B&W / COLOR //
+      case "XR01":
+      unitValue1 = 0.07;
+      break;
+    case "XR0-Lit":
+      unitValue1 = 0.30;
+      break;
+    case "XR02":
+      unitValue1 = 0.10;
+      break;
+    case "XR03":
+      unitValue1 = 0.50;
+      break;
+    case "XR07":
+      unitValue1 = 0.10;
+      break;
+    case "XR08":
+      unitValue1 = 0.15;
+      break;
+    case "XR09":
+      unitValue1 = 0.75;
+      break;
+    case "CC0A":
+      unitValue1 = 0.10;
+      break;
+    case "CC0B":
+      unitValue1 = 0.25;
+      break;
+    case "CC0C":
+      unitValue1 = 0.75;
+      break;
+    case "XR04":
+      unitValue1 = 0.50;
+      break;
+    case "XR05":
+      unitValue1 = 0.75;
+      break;
+    case "XR06":
+      unitValue1 = 1.00;
+      break;
+    case "CC01":
+      unitValue1 = 0.65;
+      break;
+    case "CC02":
+      unitValue1 = 0.70;
+      break;
+    case "CC03":
+      unitValue1 = 0.75;
+      break;
+    case "CC04":
+      unitValue1 = 0.70;
+      break;
+    case "CC05":
+      unitValue1 = 0.75;
+      break;
+    case "CC06":
+      unitValue1 = 0.80;
+      break;
+    case "CC06.1":
+      unitValue1 = 0.85;
+      break;
+    case "CCG01":
+      unitValue1 = 1.00;
+      break;
+    case "CCG02":
+      unitValue1 = 1.25;
+      break;
+    case "CCG02.1":
+      unitValue1 = 1.50;
+      break;
+    case "CCG02.2":
+      unitValue1 = 1.75;
+      break;
+    case "CCG03":
+      unitValue1 = 2.00;
+      break;
+    case "CCG03.1":
+      unitValue1 = 2.25;
+      break;
+    case "CCG03.2":
+      unitValue1 = 2.50;
+      break;
+    case "CCG03.3":
+      unitValue1 = 2.75;
+      break;
+    case "CCG04":
+      unitValue1 = 3.00;
+      break;
+    case "CCG04.1":
+      unitValue1 = 3.25;
+      break;
+    case "CCG04.2":
+      unitValue1 = 3.50;
+      break;
+    case "CCG04.3":
+      unitValue1 = 3.75;
+      break;
+    case "SS-3.75":
+      unitValue1 = 4.15;
+      break;
+    case "DDS2":
+      unitValue1 = 25.00;
+      break;
+    case "DDS1":
+      unitValue1 = 15.00;
+      break;
+    case "SC02":
+      unitValue1 = 0.04;
+      break;
+    case "DPP":
+      unitValue1 = 3.75;
+      break;
+
+//SMALL FORMAT B&W / COLOR - BINDING//
+
+    case "SDB":
+      unitValue1 = 0.50;
+      break;
+    case "AB01":
+      unitValue1 = 1.50;
+      break;
+    case "AB02":
+      unitValue1 = 2.50;
+      break;
+    case "AB03":
+      unitValue1 = 4.75;
+      break;
+    case "GB01":
+      unitValue1 = 2.50;
+      break;
+    case "GB02":
+      unitValue1 = 3.50;
+      break;
+    case "GB03":
+      unitValue1 = 5.75;
+      break;
+    case "CB01":
+      unitValue1 = 3.50;
+      break;
+    case "CB02":
+      unitValue1 = 4.50;
+      break;
+    case "CB03":
+      unitValue1 = 6.75;
+      break;
+    case "B01":
+      unitValue1 = 10.00;
+      break;
+    case "B02":
+      unitValue1 = 11.00;
+      break;
+    case "B03":
+      unitValue1 = 12.00;
+      break;
+    case "B04":
+      unitValue1 = 13.50;
+      break;
+    case "XR17":
+      unitValue1 = 1.50;
+      break;
+    case "XR18":
+      unitValue1 = 2.50;
+      break;
+    case "XR19":
+      unitValue1 = 3.00;
+      break;
+    case "BC01":
+      unitValue1 = 2.00;
+      break;
+    case "BC02":
+      unitValue1 = 2.50;
+      break;
+    case "BC03":
+      unitValue1 = 5.00;
+      break;
+    case "XPP":
+      unitValue1 = 0.01;
+      break;
+
+//OVERSIZE (PAGEWIDE B/W 40# BOND PAPER//
+
+    case "DPP3":
+      unitValue1 = 3.75;
+      break;
+    case "DPP3.1":
+      unitValue1 = 3.75;
+      break;
+    case "DPP6":
+      unitValue1 = 7.50;
+      break;
+    case "DPP9":
+      unitValue1 = 11.25;
+      break;
+    case "DPP12":
+      unitValue1 = 15.00;
+      break;
+
+//OVERSIZE (Pagewide)  COLOR 40# Bond Pa  - CODE - CW03_40//
+
+    case "CW40_3)":
+      unitValue1 = 18.00;
+      break;
+    case "CW40_3.1)":
+      unitValue1 = 18.00;
+      break;
+    case "CW40_6)":
+      unitValue1 = 36.00;
+      break;
+    case "CW40_9)":
+      unitValue1 = 54.00;
+      break;
+    case "CW40_12)":
+      unitValue1 = 72.00;
+      break;
+
+//SCANNING LARGE AND SMALL DOC//
+
+case "SC01":
+      unitValue1 = 1.00;
+      break;
+    case "SC0-LIT":
+      unitValue1 = 2.50;
+      break;
+    case "CSF04":
+      unitValue1 = 3.00;
+      break;
+    case "SC03":
+      unitValue1 = 0.08;
+      break;
+    case "SC11":
+      unitValue1 = 0.15;
+      break;
+    case "SC-LIT":
+      unitValue1 = 0.30;
+      break;
+    case "CSF01":
+      unitValue1 = 0.25;
+      break;
+    case "CSF02":
+      unitValue1 = 0.25;
+      break;
+    case "CSF03":
+      unitValue1 = 0.50;
+      break;
+    case "SC07":
+      unitValue1 = 15.00;
+      break;
+    case "SC09":
+      unitValue1 = 25.00;
+      break;
+    case "EM01":
+      unitValue1 = 15.00;
+      break;
+    case "EM02":
+      unitValue1 = 25.00;
+      break;
+
+    default:
+      unitValue1 = ""; // Clear the unit1 field if code1 is not recognized
+      break;
+  }
+
+  // Set the calculated unit1 value in the Unit1 field
+  unitField1.value = unitValue1;
+}
