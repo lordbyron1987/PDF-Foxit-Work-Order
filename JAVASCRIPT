@@ -363,6 +363,29 @@ case "GM01":
   unitValue1 = 1.50;
   break;
 
+//BUSINESS CARDS//
+
+case "EE01":
+  unitValue1 = 1.00;
+  break;
+case "OP1_250":
+  unitValue1 = 65.00;
+  break;
+case "OP1_500":
+  unitValue1 = 115.00;
+  break;
+case "OP1_1000":
+  unitValue1 = 185.00;
+  break;
+case "OP1_250":
+  unitValue1 = 75.00;
+  break;
+case "OP1_500":
+  unitValue1 = 125.00;
+  break;
+case "OP1_1000":
+  unitValue1 = 195.00;
+  break;
 
 
 
