@@ -351,6 +351,19 @@ case "LM03":
   unitValue1 = 10.00;
   break;
 
+//GROMMETS//
+
+case "EE01":
+  unitValue1 = 1.00;
+  break;
+case "EE02":
+  unitValue1 = 2.00;
+  break;
+case "GM01":
+  unitValue1 = 1.50;
+  break;
+
+
 
 
     default:
