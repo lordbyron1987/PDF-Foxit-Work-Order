@@ -387,6 +387,116 @@ case "OP1_1000":
   unitValue1 = 195.00;
   break;
 
+//BROCHURE//
+
+case "OP2_50":
+  unitValue1 = 110.00;
+  break;
+case "OP2_75":
+  unitValue1 = 150.00;
+  break;
+case "OP2_100":
+  unitValue1 = 170.00;
+  break;
+case "OP2_125":
+  unitValue1 = 205.00;
+  break;
+case "OP2_150":
+  unitValue1 = 240.00;
+  break;
+case "OP2_175":
+  unitValue1 = 275.00;
+  break;
+case "OP2_200":
+  unitValue1 = 295.00;
+  break;
+case "OP2_225":
+  unitValue1 = 330.00;
+  break;
+case "OP2_250":
+  unitValue1 = 360.00;
+  break;
+case "OP2_500":
+  unitValue1 = 650.00;
+  break;
+case "OP2_750":
+  unitValue1 = 960.00;
+  break;
+case "OP2_1000":
+  unitValue1 = 1195.00;
+  break;
+case "OP2_1250":
+  unitValue1 = 1485.00;
+  break;
+case "OP2_1500":
+  unitValue1 = 1775.00;
+  break;
+case "OP2_1750":
+  unitValue1 = 2065.00;
+  break;
+case "OP2_2000":
+  unitValue1 = 2195.00;
+  break;
+case "OP2_2250":
+  unitValue1 = 2465.00;
+  break;
+case "OP2_2500":
+  unitValue1 = 2735.00;
+  break;
+case "OP3_50":
+  unitValue1 = 150.00;
+  break;
+case "OP3_75":
+  unitValue1 = 210.00;
+  break;
+case "OP3_100":
+  unitValue1 = 260.00;
+  break;
+case "OP3_125":
+  unitValue1 = 315.00;
+  break;
+case "OP3_150":
+  unitValue1 = 370.00;
+  break;
+case "OP3_175":
+  unitValue1 = 425.00;
+  break;
+case "OP3_200":
+  unitValue1 = 450.00;
+  break;
+case "OP3_225":
+  unitValue1 = 510.00;
+  break;
+case "OP3_250":
+  unitValue1 = 560.00;
+  break;
+case "OP3_500":
+  unitValue1 = 1005.00;
+  break;
+case "OP3_750":
+  unitValue1 = 1500.00;
+  break;
+case "OP3_1000":
+  unitValue1 = 1820.00;
+  break;
+case "OP3_1250":
+  unitValue1 = 2270.00;
+  break;
+case "OP3_1500":
+  unitValue1 = 2720.00;
+  break;
+case "OP3_1750":
+  unitValue1 = 3170.00;
+  break;
+case "OP3_2000":
+  unitValue1 = 3620.00;
+  break;
+case "OP3_2250":
+  unitValue1 = 4060.00;
+  break;
+case "OP3_2500":
+  unitValue1 = 4510.00;
+  break;
 
 
     default:
