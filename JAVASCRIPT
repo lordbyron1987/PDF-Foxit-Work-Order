@@ -273,6 +273,24 @@ case "SC01":
       unitValue1 = 25.00;
       break;
 
+//SATIN//
+
+case "CCPS3":
+      unitValue1 = 36.00;
+      break;
+    case "CCPS3.1":
+      unitValue1 = 36.00;
+      break;
+    case "CCPS6":
+      unitValue1 = 72.00;
+      break;
+    case "CCPS9":
+      unitValue1 = 108.00;
+      break;
+    case "CCPS12":
+      unitValue1 = 144.00;
+      break;
+
     default:
       unitValue1 = ""; // Clear the unit1 field if code1 is not recognized
       break;
