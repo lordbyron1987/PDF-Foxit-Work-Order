@@ -291,6 +291,50 @@ case "CCPS3":
       unitValue1 = 144.00;
       break;
 
+//POSTER//
+
+    case "3 CCPG3":
+      unitValue1 = 39.00;
+      break;
+    case "3 CCPG3.1":
+      unitValue1 = 39.00;
+      break;
+    case "6 CCPG6":
+      unitValue1 = 78.00;
+      break;
+    case "9 CCPG9":
+      unitValue1 = 117.00;
+      break;
+    case "12 CCPG12":
+      unitValue1 = 156.00;
+      break;  
+
+//MOUNTING//
+
+case "MT1":
+  unitValue1 = 5.00;
+  break;
+case "MT1.1":
+  unitValue1 = 10.00;
+  break;
+case "MT3":
+  unitValue1 = 22.50;
+  break;
+case "MT3.1":
+  unitValue1 = 22.50;
+  break;
+case "MT6":
+  unitValue1 = 45.00;
+  break;
+case "MT9":
+  unitValue1 = 67.50;
+  break;
+case "MT12":
+  unitValue1 = 90.00;
+  break;   
+
+
+
     default:
       unitValue1 = ""; // Clear the unit1 field if code1 is not recognized
       break;
