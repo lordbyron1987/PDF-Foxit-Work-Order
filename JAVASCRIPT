@@ -711,6 +711,17 @@ case "XR07 CS":
   unitValue2 = 0.03;
   break;
 
+//Letterhead//
+
+case "LHD_100":
+  unitValue2 = 75.00;
+  break;
+case "LHD_250":
+  unitValue2 = 150.00;
+  break;
+case "LHD_500":
+  unitValue2 = 250.00;
+  break;
 
 
 
