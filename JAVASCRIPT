@@ -389,162 +389,151 @@ case "OP1_1000":
 
 //BROCHURE//
 
-case "OP2_50":
+case "BRC_8.5_50":
   unitValue1 = 110.00;
   break;
-case "OP2_75":
+case "BRC_8.5_75":
   unitValue1 = 150.00;
   break;
-case "OP2_100":
+case "BRC_8.5_100":
   unitValue1 = 170.00;
   break;
-case "OP2_125":
+case "BRC_8.5_125":
   unitValue1 = 205.00;
   break;
-case "OP2_150":
+case "BRC_8.5_150":
   unitValue1 = 240.00;
   break;
-case "OP2_175":
+case "BRC_8.5_175":
   unitValue1 = 275.00;
   break;
-case "OP2_200":
+case "BRC_8.5_200":
   unitValue1 = 295.00;
   break;
-case "OP2_225":
+case "BRC_8.5_225":
   unitValue1 = 330.00;
   break;
-case "OP2_250":
+case "BRC_8.5_250":
   unitValue1 = 360.00;
   break;
-case "OP2_500":
+case "BRC_8.5_500":
   unitValue1 = 650.00;
   break;
-case "OP2_750":
+case "BRC_8.5_750":
   unitValue1 = 960.00;
   break;
-case "OP2_1000":
+case "BRC_8.5_1000":
   unitValue1 = 1195.00;
   break;
-case "OP2_1250":
+case "BRC_8.5_1250":
   unitValue1 = 1485.00;
   break;
-case "OP2_1500":
+case "BRC_8.5_1500":
   unitValue1 = 1775.00;
   break;
-case "OP2_1750":
+case "BRC_8.5_1750":
   unitValue1 = 2065.00;
   break;
-case "OP2_2000":
+case "BRC_8.5_2000":
   unitValue1 = 2195.00;
   break;
-case "OP2_2250":
+case "BRC_8.5_2250":
   unitValue1 = 2465.00;
   break;
-case "OP2_2500":
+case "BRC_8.5_2500":
   unitValue1 = 2735.00;
   break;
-case "OP3_50":
+case "BRC_11_50":
   unitValue1 = 150.00;
   break;
-case "OP3_75":
+case "BRC_11_75":
   unitValue1 = 210.00;
   break;
-case "OP3_100":
+case "BRC_11_100":
   unitValue1 = 260.00;
   break;
-case "OP3_125":
+case "BRC_11_125":
   unitValue1 = 315.00;
   break;
-case "OP3_150":
+case "BRC_11_150":
   unitValue1 = 370.00;
   break;
-case "OP3_175":
+case "BRC_11_175":
   unitValue1 = 425.00;
   break;
-case "OP3_200":
+case "BRC_11_200":
   unitValue1 = 450.00;
   break;
-case "OP3_225":
+case "BRC_11_225":
   unitValue1 = 510.00;
   break;
-case "OP3_250":
+case "BRC_11_250":
   unitValue1 = 560.00;
   break;
-case "OP3_500":
+case "BRC_11_500":
   unitValue1 = 1005.00;
   break;
-case "OP3_750":
+case "BRC_11_750":
   unitValue1 = 1500.00;
   break;
-case "OP3_1000":
+case "BRC_11_1000":
   unitValue1 = 1820.00;
   break;
-case "OP3_1250":
+case "BRC_11_1250":
   unitValue1 = 2270.00;
   break;
-case "OP3_1500":
-  unitValue1 = 2720.00;
-  break;
-case "OP3_1750":
-  unitValue1 = 3170.00;
-  break;
-case "OP3_2000":
-  unitValue1 = 3620.00;
-  break;
-case "OP3_2250":
-  unitValue1 = 4060.00;
-  break;
-case "OP3_2500":
-  unitValue1 = 4510.00;
-  break;
+case "BRC_11_1500":
+  unitValue
+
 
 //RACK CARDS//
 
-case "OP3_50":
+case "RC_4x9_50":
   unitValue1 = 60.00;
   break;
-case "OP3_75":
+case "RC_4x9_75":
   unitValue1 = 85.00;
   break;
-case "OP3_100":
+case "RC_4x9_100":
   unitValue1 = 90.00;
   break;
-case "OP3_150":
+case "RC_4x9_150":
   unitValue1 = 125.00;
   break;
-case "OP3_200":
+case "RC_4x9_200":
   unitValue1 = 135.00;
   break;
-case "OP3_250":
+case "RC_4x9_250":
   unitValue1 = 190.00;
   break;
-case "OP3_500":
+case "RC_4x9_500":
   unitValue1 = 330.00;
   break;
-case "OP3_750":
+case "RC_4x9_750":
   unitValue1 = 480.00;
   break;
-case "OP3_1000":
+case "RC_4x9_1000":
   unitValue1 = 585.00;
   break;
-case "OP3_1250":
+case "RC_4x9_1250":
   unitValue1 = 725.00;
   break;
-case "OP3_1500":
+case "RC_4x9_1500":
   unitValue1 = 880.00;
   break;
-case "OP3_1750":
+case "RC_4x9_1750":
   unitValue1 = 1010.00;
   break;
-case "OP3_2000":
+case "RC_4x9_2000":
   unitValue1 = 1050.00;
   break;
-case "OP3_2250":
+case "RC_4x9_2250":
   unitValue1 = 1175.00;
   break;
-case "OP3_2500":
+case "RC_4x9_2500":
   unitValue1 = 1310.00;
   break;
+
 
 
     default:
