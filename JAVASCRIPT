@@ -657,6 +657,26 @@ case "CCP_5.5x8.5_5000":
   unitValue2 = 2260.00;
   break;
 
+//EVENT TICKETS//
+
+case "ET_100":
+  unitValue2 = 100.00;
+  break;
+case "ET_250":
+  unitValue2 = 200.00;
+  break;
+case "ET_500":
+  unitValue2 = 500.00;
+  break;
+case "ET_750":
+  unitValue2 = 470.00;
+  break;
+case "ET_1000":
+  unitValue2 = 600.00;
+  break;
+
+
+
 
 
 
