@@ -534,6 +534,130 @@ case "RC_4x9_2500":
   unitValue1 = 1310.00;
   break;
 
+//FLYERS and Postcards//
+
+case "CCP_4x6_100":
+  unitValue2 = 85.00;
+  break;
+case "CCP_4x6_250":
+  unitValue2 = 170.00;
+  break;
+case "CCP_4x6_500":
+  unitValue2 = 300.00;
+  break;
+case "CCP_4x6_1000":
+  unitValue2 = 540.00;
+  break;
+case "CCP_4x6_1500":
+  unitValue2 = 800.00;
+  break;
+case "CCP_4x6_2000":
+  unitValue2 = 980.00;
+  break;
+case "CCP_4x6_2500":
+  unitValue2 = 1210.00;
+  break;
+case "CCP_4x6_5000":
+  unitValue2 = 2210.00;
+  break;
+case "CCP_4.25x5.5_100":
+  unitValue2 = 60.00;
+  break;
+case "CCP_4.25x5.5_250":
+  unitValue2 = 115.00;
+  break;
+case "CCP_4.25x5.5_500":
+  unitValue2 = 185.00;
+  break;
+case "CCP_4.25x5.5_1000":
+  unitValue2 = 325.00;
+  break;
+case "CCP_4.25x5.5_1500":
+  unitValue2 = 480.00;
+  break;
+case "CCP_4.25x5.5_2000":
+  unitValue2 = 600.00;
+  break;
+case "CCP_4.25x5.5_2500":
+  unitValue2 = 740.00;
+  break;
+case "CCP_4.25x5.5_5000":
+  unitValue2 = 1359.00;
+  break;
+case "CCP_5x5_100":
+  unitValue2 = 70.00;
+  break;
+case "CCP_5x5_250":
+  unitValue2 = 130.00;
+  break;
+case "CCP_5x5_500":
+  unitValue2 = 200.00;
+  break;
+case "CCP_5x5_1000":
+  unitValue2 = 360.00;
+  break;
+case "CCP_5x5_1500":
+  unitValue2 = 500.00;
+  break;
+case "CCP_5x5_2000":
+  unitValue2 = 650.00;
+  break;
+case "CCP_5x5_2500":
+  unitValue2 = 810.00;
+  break;
+case "CCP_5x5_5000":
+  unitValue2 = 1460.00;
+  break;
+case "CCP_5x7_100":
+  unitValue2 = 95.00;
+  break;
+case "CCP_5x7_250":
+  unitValue2 = 190.00;
+  break;
+case "CCP_5x7_500":
+  unitValue2 = 320.00;
+  break;
+case "CCP_5x7_1000":
+  unitValue2 = 560.00;
+  break;
+case "CCP_5x7_1500":
+  unitValue2 = 820.00;
+  break;
+case "CCP_5x7_2000":
+  unitValue2 = 1000.00;
+  break;
+case "CCP_5x7_2500":
+  unitValue2 = 1240.00;
+  break;
+case "CCP_5x7_5000":
+  unitValue2 = 2240.00;
+  break;
+case "CCP_5.5x8.5_100":
+  unitValue2 = 115.00;
+  break;
+case "CCP_5.5x8.5_250":
+  unitValue2 = 210.00;
+  break;
+case "CCP_5.5x8.5_500":
+  unitValue2 = 340.00;
+  break;
+case "CCP_5.5x8.5_1000":
+  unitValue2 = 580.00;
+  break;
+case "CCP_5.5x8.5_1500":
+  unitValue2 = 840.00;
+  break;
+case "CCP_5.5x8.5_2000":
+  unitValue2 = 1020.00;
+  break;
+case "CCP_5.5x8.5_2500":
+  unitValue2 = 1260.00;
+  break;
+case "CCP_5.5x8.5_5000":
+  unitValue2 = 2260.00;
+  break;
+
+
 
 
     default:
