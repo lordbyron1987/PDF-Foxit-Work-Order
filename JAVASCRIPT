@@ -723,6 +723,69 @@ case "LHD_500":
   unitValue2 = 250.00;
   break;
 
+//Greeting Cards//
+
+case "GC_4x6_25":
+  unitValue2 = 75.00;
+  break;
+case "GC_4x6_50":
+  unitValue2 = 95.00;
+  break;
+case "GC_4x6_100":
+  unitValue2 = 150.00;
+  break;
+case "GC_4x6_250":
+  unitValue2 = 325.00;
+  break;
+case "GC_4x6_500":
+  unitValue2 = 395.00;
+  break;
+case "GC_5x7_25":
+  unitValue2 = 110.00;
+  break;
+case "GC_5x7_50":
+  unitValue2 = 140.00;
+  break;
+case "GC_5x7_100":
+  unitValue2 = 300.00;
+  break;
+case "GC_5x7_250":
+  unitValue2 = 395.00;
+  break;
+case "GC_5x7_500":
+  unitValue2 = 550.00;
+  break;
+case "GC_8x6_25":
+  unitValue2 = 85.00;
+  break;
+case "GC_8x6_50":
+  unitValue2 = 105.00;
+  break;
+case "GC_8x6_100":
+  unitValue2 = 165.00;
+  break;
+case "GC_8x6_250":
+  unitValue2 = 350.00;
+  break;
+case "GC_8x6_500":
+  unitValue2 = 405.00;
+  break;
+case "GC_10x7_25":
+  unitValue2 = 125.00;
+  break;
+case "GC_10x7_50":
+  unitValue2 = 150.00;
+  break;
+case "GC_10x7_100":
+  unitValue2 = 310.00;
+  break;
+case "GC_10x7_250":
+  unitValue2 = 405.00;
+  break;
+case "GC_10x7_500":
+  unitValue2 = 565.00;
+  break;
+
 
 
 
