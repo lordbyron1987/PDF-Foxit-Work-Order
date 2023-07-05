@@ -293,19 +293,19 @@ case "CCPS3":
 
 //POSTER//
 
-    case "3 CCPG3":
+    case "CCPG3":
       unitValue1 = 39.00;
       break;
-    case "3 CCPG3.1":
+    case "CCPG3.1":
       unitValue1 = 39.00;
       break;
-    case "6 CCPG6":
+    case "CCPG6":
       unitValue1 = 78.00;
       break;
-    case "9 CCPG9":
+    case "CCPG9":
       unitValue1 = 117.00;
       break;
-    case "12 CCPG12":
+    case "CCPG12":
       unitValue1 = 156.00;
       break;  
 
@@ -365,9 +365,6 @@ case "GM01":
 
 //BUSINESS CARDS//
 
-case "EE01":
-  unitValue1 = 1.00;
-  break;
 case "OP1_250":
   unitValue1 = 65.00;
   break;
@@ -377,13 +374,13 @@ case "OP1_500":
 case "OP1_1000":
   unitValue1 = 185.00;
   break;
-case "OP1_250":
+case "OP1_250DS":
   unitValue1 = 75.00;
   break;
-case "OP1_500":
+case "OP1_500DS":
   unitValue1 = 125.00;
   break;
-case "OP1_1000":
+case "OP1_1000DS":
   unitValue1 = 195.00;
   break;
 
@@ -536,255 +533,256 @@ case "RC_4x9_2500":
 
 //FLYERS and Postcards//
 
-case "CCP_4x6_100":
-  unitValue2 = 85.00;
+case "CCP_4_100":
+  unitValue1 = 85.00;
   break;
-case "CCP_4x6_250":
-  unitValue2 = 170.00;
+case "CCP_4_250":
+  unitValue1 = 170.00;
   break;
-case "CCP_4x6_500":
-  unitValue2 = 300.00;
+case "CCP_4_500":
+  unitValue1 = 300.00;
   break;
-case "CCP_4x6_1000":
-  unitValue2 = 540.00;
+case "CCP_4_1000":
+  unitValue1 = 540.00;
   break;
-case "CCP_4x6_1500":
-  unitValue2 = 800.00;
+case "CCP_4_1500":
+  unitValue1 = 800.00;
   break;
-case "CCP_4x6_2000":
-  unitValue2 = 980.00;
+case "CCP_4_2000":
+  unitValue1 = 980.00;
   break;
-case "CCP_4x6_2500":
-  unitValue2 = 1210.00;
+case "CCP_4_2500":
+  unitValue1 = 1210.00;
   break;
-case "CCP_4x6_5000":
-  unitValue2 = 2210.00;
+case "CCP_4_5000":
+  unitValue1 = 2210.00;
   break;
-case "CCP_4.25x5.5_100":
-  unitValue2 = 60.00;
+case "CCP_4.25_100":
+  unitValue1 = 60.00;
   break;
-case "CCP_4.25x5.5_250":
-  unitValue2 = 115.00;
+case "CCP_4.25_250":
+  unitValue1 = 115.00;
   break;
-case "CCP_4.25x5.5_500":
-  unitValue2 = 185.00;
+case "CCP_4.25_500":
+  unitValue1 = 185.00;
   break;
-case "CCP_4.25x5.5_1000":
-  unitValue2 = 325.00;
+case "CCP_4.25_1000":
+  unitValue1 = 325.00;
   break;
-case "CCP_4.25x5.5_1500":
-  unitValue2 = 480.00;
+case "CCP_4.25_1500":
+  unitValue1 = 480.00;
   break;
-case "CCP_4.25x5.5_2000":
-  unitValue2 = 600.00;
+case "CCP_4.25_2000":
+  unitValue1 = 600.00;
   break;
-case "CCP_4.25x5.5_2500":
-  unitValue2 = 740.00;
+case "CCP_4.25_2500":
+  unitValue1 = 740.00;
   break;
-case "CCP_4.25x5.5_5000":
-  unitValue2 = 1359.00;
+case "CCP_4.25_5000":
+  unitValue1 = 1359.00;
   break;
-case "CCP_5x5_100":
-  unitValue2 = 70.00;
+case "CCP_5_100":
+  unitValue1 = 70.00;
   break;
-case "CCP_5x5_250":
-  unitValue2 = 130.00;
+case "CCP_5_250":
+  unitValue1 = 130.00;
   break;
-case "CCP_5x5_500":
-  unitValue2 = 200.00;
+case "CCP_5_500":
+  unitValue1 = 200.00;
   break;
-case "CCP_5x5_1000":
-  unitValue2 = 360.00;
+case "CCP_5_1000":
+  unitValue1 = 360.00;
   break;
-case "CCP_5x5_1500":
-  unitValue2 = 500.00;
+case "CCP_5_1500":
+  unitValue1 = 500.00;
   break;
-case "CCP_5x5_2000":
-  unitValue2 = 650.00;
+case "CCP_5_2000":
+  unitValue1 = 650.00;
   break;
-case "CCP_5x5_2500":
-  unitValue2 = 810.00;
+case "CCP_5_2500":
+  unitValue1 = 810.00;
   break;
-case "CCP_5x5_5000":
-  unitValue2 = 1460.00;
+case "CCP_5_5000":
+  unitValue1 = 1460.00;
   break;
-case "CCP_5x7_100":
-  unitValue2 = 95.00;
+case "CCP_5_100":
+  unitValue1 = 95.00;
   break;
-case "CCP_5x7_250":
-  unitValue2 = 190.00;
+case "CCP_5_250":
+  unitValue1 = 190.00;
   break;
-case "CCP_5x7_500":
-  unitValue2 = 320.00;
+case "CCP_5_500":
+  unitValue1 = 320.00;
   break;
-case "CCP_5x7_1000":
-  unitValue2 = 560.00;
+case "CCP_5_1000":
+  unitValue1 = 560.00;
   break;
-case "CCP_5x7_1500":
-  unitValue2 = 820.00;
+case "CCP_5_1500":
+  unitValue1 = 820.00;
   break;
-case "CCP_5x7_2000":
-  unitValue2 = 1000.00;
+case "CCP_5_2000":
+  unitValue1 = 1000.00;
   break;
-case "CCP_5x7_2500":
-  unitValue2 = 1240.00;
+case "CCP_5_2500":
+  unitValue1 = 1240.00;
   break;
-case "CCP_5x7_5000":
-  unitValue2 = 2240.00;
+case "CCP_5_5000":
+  unitValue1 = 2240.00;
   break;
-case "CCP_5.5x8.5_100":
-  unitValue2 = 115.00;
+case "CCP_5.5_100":
+  unitValue1 = 115.00;
   break;
-case "CCP_5.5x8.5_250":
-  unitValue2 = 210.00;
+case "CCP_5.5_250":
+  unitValue1 = 210.00;
   break;
-case "CCP_5.5x8.5_500":
-  unitValue2 = 340.00;
+case "CCP_5.5_500":
+  unitValue1 = 340.00;
   break;
-case "CCP_5.5x8.5_1000":
-  unitValue2 = 580.00;
+case "CCP_5.5_1000":
+  unitValue1 = 580.00;
   break;
-case "CCP_5.5x8.5_1500":
-  unitValue2 = 840.00;
+case "CCP_5.5_1500":
+  unitValue1 = 840.00;
   break;
-case "CCP_5.5x8.5_2000":
-  unitValue2 = 1020.00;
+case "CCP_5.5_2000":
+  unitValue1 = 1020.00;
   break;
-case "CCP_5.5x8.5_2500":
-  unitValue2 = 1260.00;
+case "CCP_5.5_2500":
+  unitValue1 = 1260.00;
   break;
-case "CCP_5.5x8.5_5000":
-  unitValue2 = 2260.00;
+case "CCP_5.5_5000":
+  unitValue1 = 2260.00;
   break;
 
 //EVENT TICKETS//
 
 case "ET_100":
-  unitValue2 = 100.00;
+  unitValue1 = 100.00;
   break;
 case "ET_250":
-  unitValue2 = 200.00;
+  unitValue1 = 200.00;
   break;
 case "ET_500":
-  unitValue2 = 500.00;
+  unitValue1 = 500.00;
   break;
 case "ET_750":
-  unitValue2 = 470.00;
+  unitValue1 = 470.00;
   break;
 case "ET_1000":
-  unitValue2 = 600.00;
+  unitValue1 = 600.00;
   break;
 
 //MISC//
 
 case "FR":
-  unitValue2 = 0.50;
+  unitValue1 = 0.50;
   break;
 case "HT":
-  unitValue2 = 50.00;
+  unitValue1 = 50.00;
   break;
 case "FC":
-  unitValue2 = 4.00;
+  unitValue1 = 4.00;
   break;
 case "SH":
-  unitValue2 = 10.00;
+  unitValue1 = 10.00;
   break;
 case "RSH":
-  unitValue2 = 50.00;
+  unitValue1 = 50.00;
   break;
 case "NT":
-  unitValue2 = 5.00;
+  unitValue1 = 5.00;
   break;
 case "XR15":
-  unitValue2 = 1.50;
+  unitValue1 = 1.50;
   break;
 case "XR16":
-  unitValue2 = 2.50;
+  unitValue1 = 2.50;
   break;
 case "SL01":
-  unitValue2 = 0.03;
+  unitValue1 = 0.03;
   break;
 case "PS":
-  unitValue2 = 2.00;
+  unitValue1 = 2.00;
   break;
 case "XR07 CS":
-  unitValue2 = 0.03;
+  unitValue1 = 0.03;
   break;
 
 //Letterhead//
 
 case "LHD_100":
-  unitValue2 = 75.00;
+  unitValue1 = 75.00;
   break;
 case "LHD_250":
-  unitValue2 = 150.00;
+  unitValue1 = 150.00;
   break;
 case "LHD_500":
-  unitValue2 = 250.00;
+  unitValue1 = 250.00;
   break;
 
 //Greeting Cards//
 
 case "GC_4x6_25":
-  unitValue2 = 75.00;
+  unitValue1 = 75.00;
   break;
 case "GC_4x6_50":
-  unitValue2 = 95.00;
+  unitValue1 = 95.00;
   break;
 case "GC_4x6_100":
-  unitValue2 = 150.00;
+  unitValue1 = 150.00;
   break;
 case "GC_4x6_250":
-  unitValue2 = 325.00;
+  unitValue1 = 325.00;
   break;
 case "GC_4x6_500":
-  unitValue2 = 395.00;
+  unitValue1 = 395.00;
   break;
 case "GC_5x7_25":
-  unitValue2 = 110.00;
+  unitValue1 = 110.00;
   break;
 case "GC_5x7_50":
-  unitValue2 = 140.00;
+  unitValue1 = 140.00;
   break;
 case "GC_5x7_100":
-  unitValue2 = 300.00;
+  unitValue1 = 300.00;
   break;
 case "GC_5x7_250":
-  unitValue2 = 395.00;
+  unitValue1 = 395.00;
   break;
 case "GC_5x7_500":
-  unitValue2 = 550.00;
+  unitValue1 = 550.00;
   break;
 case "GC_8x6_25":
-  unitValue2 = 85.00;
+  unitValue1 = 85.00;
   break;
 case "GC_8x6_50":
-  unitValue2 = 105.00;
+  unitValue1 = 105.00;
   break;
 case "GC_8x6_100":
-  unitValue2 = 165.00;
+  unitValue1 = 165.00;
   break;
 case "GC_8x6_250":
-  unitValue2 = 350.00;
+  unitValue1 = 350.00;
   break;
 case "GC_8x6_500":
-  unitValue2 = 405.00;
+  unitValue1 = 405.00;
   break;
 case "GC_10x7_25":
-  unitValue2 = 125.00;
+  unitValue1 = 125.00;
   break;
 case "GC_10x7_50":
-  unitValue2 = 150.00;
+  unitValue1 = 150.00;
   break;
 case "GC_10x7_100":
-  unitValue2 = 310.00;
+  unitValue1 = 310.00;
   break;
 case "GC_10x7_250":
-  unitValue2 = 405.00;
+  unitValue1 = 405.00;
   break;
 case "GC_10x7_500":
-  unitValue2 = 565.00;
+  unitValue1 = 565.00;
   break;
+
 
 
 
