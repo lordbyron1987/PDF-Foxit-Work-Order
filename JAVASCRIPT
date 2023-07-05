@@ -215,19 +215,19 @@ function calculateUnit1() {
 
 //OVERSIZE (Pagewide)  COLOR 40# Bond Pa  - CODE - CW03_40//
 
-    case "CW40_3)":
+    case "CW40_3":
       unitValue1 = 18.00;
       break;
-    case "CW40_3.1)":
+    case "CW40_3.1":
       unitValue1 = 18.00;
       break;
-    case "CW40_6)":
+    case "CW40_6":
       unitValue1 = 36.00;
       break;
-    case "CW40_9)":
+    case "CW40_9":
       unitValue1 = 54.00;
       break;
-    case "CW40_12)":
+    case "CW40_12":
       unitValue1 = 72.00;
       break;
 
