@@ -808,6 +808,9 @@ case "LHD_250":
 case "LHD_500":
   unitValue1 = 250.00;
   break;
+case "LHD_1000":
+  unitValue1 = $450.00;
+  break;
 
 //Greeting Cards//
 
