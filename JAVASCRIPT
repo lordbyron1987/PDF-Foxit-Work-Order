@@ -533,126 +533,215 @@ case "RC_4x9_2500":
 
 //FLYERS and Postcards//
 
-case "CCP_4_100":
+case "CCPF_4_100":
   unitValue1 = 85.00;
   break;
-case "CCP_4_250":
+case "CCPF_4_250":
   unitValue1 = 170.00;
   break;
-case "CCP_4_500":
+case "CCPF_4_500":
   unitValue1 = 300.00;
   break;
-case "CCP_4_1000":
+case "CCPF_4_1000":
   unitValue1 = 540.00;
   break;
-case "CCP_4_1500":
+case "CCPF_4_1500":
   unitValue1 = 800.00;
   break;
-case "CCP_4_2000":
+case "CCPF_4_2000":
   unitValue1 = 980.00;
   break;
-case "CCP_4_2500":
+case "CCPF_4_2500":
   unitValue1 = 1210.00;
   break;
-case "CCP_4_5000":
+case "CCPF_4_5000":
   unitValue1 = 2210.00;
   break;
-case "CCP_4.25_100":
+case "CCPF_4.25_100":
   unitValue1 = 60.00;
   break;
-case "CCP_4.25_250":
+case "CCPF_4.25_250":
   unitValue1 = 115.00;
   break;
-case "CCP_4.25_500":
+case "CCPF_4.25_500":
   unitValue1 = 185.00;
   break;
-case "CCP_4.25_1000":
+case "CCPF_4.25_1000":
   unitValue1 = 325.00;
   break;
-case "CCP_4.25_1500":
+case "CCPF_4.25_1500":
   unitValue1 = 480.00;
   break;
-case "CCP_4.25_2000":
+case "CCPF_4.25_2000":
   unitValue1 = 600.00;
   break;
-case "CCP_4.25_2500":
+case "CCPF_4.25_2500":
   unitValue1 = 740.00;
   break;
-case "CCP_4.25_5000":
+case "CCPF_4.25_5000":
   unitValue1 = 1359.00;
   break;
-case "CCP_5_100":
+case "CCPF_5_100":
   unitValue1 = 70.00;
   break;
-case "CCP_5_250":
+case "CCPF_5_250":
   unitValue1 = 130.00;
   break;
-case "CCP_5_500":
+case "CCPF_5_500":
   unitValue1 = 200.00;
   break;
-case "CCP_5_1000":
+case "CCPF_5_1000":
   unitValue1 = 360.00;
   break;
-case "CCP_5_1500":
+case "CCPF_5_1500":
   unitValue1 = 500.00;
   break;
-case "CCP_5_2000":
+case "CCPF_5_2000":
   unitValue1 = 650.00;
   break;
-case "CCP_5_2500":
+case "CCPF_5_2500":
   unitValue1 = 810.00;
   break;
-case "CCP_5_5000":
+case "CCPF_5_5000":
   unitValue1 = 1460.00;
   break;
-case "CCP_5_100":
+case "CCPF_57_100":
   unitValue1 = 95.00;
   break;
-case "CCP_5_250":
+case "CCPF_57_250":
   unitValue1 = 190.00;
   break;
-case "CCP_5_500":
+case "CCPF_57_500":
   unitValue1 = 320.00;
   break;
-case "CCP_5_1000":
+case "CCPF_57_1000":
   unitValue1 = 560.00;
   break;
-case "CCP_5_1500":
+case "CCPF_57_1500":
   unitValue1 = 820.00;
   break;
-case "CCP_5_2000":
+case "CCPF_57_2000":
   unitValue1 = 1000.00;
   break;
-case "CCP_5_2500":
+case "CCPF_57_2500":
   unitValue1 = 1240.00;
   break;
-case "CCP_5_5000":
+case "CCPF_57_5000":
   unitValue1 = 2240.00;
-  break;
-case "CCP_5.5_100":
+  break; 
+case "CCPF_5.5_100":
   unitValue1 = 115.00;
   break;
-case "CCP_5.5_250":
+case "CCPF_5.5_250":
   unitValue1 = 210.00;
   break;
-case "CCP_5.5_500":
+case "CCPF_5.5_500":
   unitValue1 = 340.00;
   break;
-case "CCP_5.5_1000":
+case "CCPF_5.5_1000":
   unitValue1 = 580.00;
   break;
-case "CCP_5.5_1500":
+case "CCPF_5.5_1500":
   unitValue1 = 840.00;
   break;
-case "CCP_5.5_2000":
+case "CCPF_5.5_2000":
   unitValue1 = 1020.00;
   break;
-case "CCP_5.5_2500":
+case "CCPF_5.5_2500":
   unitValue1 = 1260.00;
   break;
-case "CCP_5.5_5000":
+case "CCPF_5.5_5000":
   unitValue1 = 2260.00;
   break;
+case "CCPF_6_100":
+  unitValue1 = 135.00;
+  break;
+case "CCPF_6_250":
+  unitValue1 = 240.00;
+  break;
+case "CCPF_6_500":
+  unitValue1 = 370.00;
+  break;
+case "CCPF_6_1000":
+  unitValue1 = 610.00;
+  break;
+case "CCPF_6_1500":
+  unitValue1 = 870.00;
+  break;
+case "CCPF_6_2000":
+  unitValue1 = 1050.00;
+  break;
+case "CCPF_6_2500":
+  unitValue1 = 1290.00;
+  break;
+case "CCPF_6_5000":
+  unitValue1 = 2290.00;
+  break;
+case "CCPF_8.5_100":
+  unitValue1 = 120.00;
+  break;
+case "CCPF_8.5_250":
+  unitValue1 = 260.00;
+  break;
+case "CCPF_8.5_500":
+  unitValue1 = 460.00;
+  break;
+case "CCPF_8.5_1000":
+  unitValue1 = 825.00;
+  break;
+case "CCPF_8.5_1250":
+  unitValue1 = 1025.00;
+  break;
+case "CCPF_8.5_1500":
+  unitValue1 = 1225.00;
+  break;
+case "CCPF_8.5_2000":
+  unitValue1 = 1460.00;
+  break;
+case "CCPF_8.5_2500":
+  unitValue1 = 1830.00;
+  break;
+case "CCPF_8.5_5000":
+  unitValue1 = 3650.00;
+  break;
+case "CCPF_11_100":
+  unitValue1 = 85.00;
+  break;
+case "CCPF_11_50":
+  unitValue1 = 130.00;
+  break;
+case "CCPF_11_75":
+  unitValue1 = 185.00;
+  break;
+case "CCPF_11_100":
+  unitValue1 = 225.00;
+  break;
+case "CCPF_11_250":
+  unitValue1 = 490.00;
+  break;
+case "CCPF_11_500":
+  unitValue1 = 885.00;
+  break;
+case "CCPF_11_1000":
+  unitValue1 = 1590.00;
+  break;
+case "CCPF_11_1250":
+  unitValue1 = 1980.00;
+  break;
+case "CCPF_11_1500":
+  unitValue1 = 2380.00;
+  break;
+case "CCPF_11_2000":
+  unitValue1 = 3160.00;
+  break;
+case "CCPF_11_2500":
+  unitValue1 = 3950.00;
+  break;
+case "CCPF_11_5000":
+  unitValue1 = 7900.00;
+  break;
+
+
 
 //EVENT TICKETS//
 
