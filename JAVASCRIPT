@@ -17,7 +17,10 @@ function calculateUnit1() {
   switch (codeValue1) {
 
   // SMALL FORMAT B&W / COLOR //
-      case "XR01":
+    case "DB":
+      unitvalue1=0.16;
+      break
+    case "XR01":
       unitValue1 = 0.07;
       break;
     case "XR0-Lit":
